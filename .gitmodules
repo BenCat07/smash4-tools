@@ -4,3 +4,6 @@
 [submodule "sm4shtools"]
 	path = sm4shtools
 	url = https://github.com/dantarion/sm4shtools
+[submodule "cdecrypt"]
+	path = cdecrypt
+	url = https://github.com/neobrain/cdecrypt
