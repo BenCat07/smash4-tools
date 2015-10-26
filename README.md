@@ -9,6 +9,6 @@ Using the `patchlist` and `resource` files included in updates, extracts the ful
 
 Referenced submodules include:
 
-	- comex's smash-stuff, python scripts for parsing some filetypes
-	- dantarion's sm4shtools, which parse data for [Master Core](http://opensa.dantarion.com/s4/mastercore3/)
-	- crediar's cdecrypt for data decryption
+- comex's smash-stuff, python scripts for parsing some filetypes
+- dantarion's sm4shtools, which parse data for [Master Core](http://opensa.dantarion.com/s4/mastercore3/)
+- crediar's cdecrypt for data decryption
